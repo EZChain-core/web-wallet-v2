@@ -17,6 +17,7 @@
                                 border-radius: 8px;
                                 width: 49%;
                                 height: 60px;
+                                margin: 0;
                             "
                             class="ava_button but_primary button_primary access"
                             @click="access"
