@@ -89,7 +89,6 @@ export default {
         font-weight: normal;
         margin-right: 30px;
     }
-
     button {
         padding: 8px 24px;
         font-size: 14px;
