@@ -21,7 +21,7 @@
                                     </header>
                                 </router-link>
                             </div>
-                            <div class="login_option">
+                            <div class="login_option" style="margin-top: 16px">
                                 <router-link data-cy="create" to="/create">
                                     <header>
                                         <div class="img_container">
@@ -106,7 +106,6 @@ export default class Home extends Vue {}
             .login_option {
                 box-shadow: inset 0px -1px 2px rgba(23, 23, 23, 0.2);
                 border-radius: 8px;
-                margin-top: 16px;
                 display: flex;
                 height: 138px;
                 align-items: center;
